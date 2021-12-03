@@ -1,0 +1,11 @@
+Texture DroidZapperSprite
+Size 48 48
+Scale 1.2 1.2
+|Type|Name|StartFrame|EndFrame|Row|FrameTime|FrameActionStart|FrameActionEnd|
+AnimationType Directional
+Animation Idle 0 2 0 0.2 -1 -1
+Animation Walk 0 5 2 0.1 -1 -1
+Animation Jump 0 2 4 0.2 -1 -1
+Animation Attack 0 9 6 0.2 -1 -1
+Animation Hurt 0 1 8 0.2 -1 -1
+Animation Death 0 5 10 0.2 -1 -1
